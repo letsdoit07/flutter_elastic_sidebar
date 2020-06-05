@@ -138,7 +138,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       ),
                                     ),
                                   ),
-                                  Divider(thickness: 1,),
+                                  Divider(thickness: 1,indent: 20, endindent:20,),
                                   Container(
                                     key: globalKey,
                                     width: double.infinity,
